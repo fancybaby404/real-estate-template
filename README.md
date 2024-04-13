@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Real Estate Template Website
 
-## Getting Started
+This project is a template for a real estate website built using Next.js, React, shadcn, and Tailwind CSS. The template provides a preview of what the completed website could look like. Please note that some features are not currently present in the repository.
 
-First, run the development server:
+## Table of Contents
 
-```bash
+- Installation
+- Usage
+- Features
+- Contributing
+- License
+
+## Installation
+
+Before you start, make sure you have Node.js and npm installed on your machine.
+
+1. Clone this repository:
+
+git clone https://github.com/yourusername/real-estate-template.git
+
+2. Navigate into the project directory:
+
+cd real-estate-template
+
+3. Install the dependencies:
+
+npm install
+
+
+## Usage
+
+To start the development server, run:
+
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Open http://localhost:3000 with your browser to see the result.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+This template includes the following features:
 
-To learn more about Next.js, take a look at the following resources:
+- Responsive design
+- Dynamic routing with Next.js
+- Styling with Tailwind CSS
+- State management with shadcn
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Please note that some features are still under development.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+Contributions are welcome! Please read the contributing guidelines before getting started.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License - see the LICENSE file for details.
